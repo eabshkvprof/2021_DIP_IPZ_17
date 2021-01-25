@@ -14,17 +14,6 @@
 
   [Дивись](http://www.brucelindbloom.com)  
 
-### За напрямом: 	Алгоритми згладжування зображень.
-|Варіант |Алгоритм |
-|:----|:-----|
-| 07 |SSAA |
-| 08 |MSAA |
-| 09 |CSAA |
-| 10 |FXAA |
-| 11 |SMAA |
-
-[Дивись](https://docplayer.ru/46536904-Tehnologii-sglazhivaniya-i-filtracii-izobrazheniy-anti-aliasing-texture-filtering.html)
-
 ### За напрямом: 	Алгоритми морфологічних перетворень зображень.
 |Варіант |Операція за Мінаковським |
 |:----|:-----|
